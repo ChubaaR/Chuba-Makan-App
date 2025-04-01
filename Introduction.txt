@@ -1,0 +1,24 @@
+# Chuba Makan Recipe App
+
+**Chuba Makan** is a cooking application developed to provide users with diverse recipes from various cuisines worldwide, complete with estimated cooking times. The app not only offers a collection of recipes but also enables users to create and save their own recipes, catering to personalized culinary preferences.
+
+## Features
+- 📖 **Explore Recipes** – Discover a variety of dishes from different cultures.
+- ⏳ **Cooking Time Estimates** – Plan meals with preparation and cooking durations.
+- ✍️ **Create & Save Recipes** – Personalize your cooking journey by adding your own recipes.
+- 🔍 **Search & Filter** – Quickly find recipes by ingredients, cuisine type, or cooking time.
+
+## Built With
+- **FlutterFlow** – A no-code/low-code platform for building Flutter applications.
+- **Firebase** – Used for authentication, storage, and database management.
+
+## Access the App
+You can check out the app here: https://app.flutterflow.io/project/chuba-makan-wkjbon 
+
+## Future Enhancements
+- 🛒 **Grocery List Feature** – Automatically generate shopping lists based on selected recipes.
+- 🎥 **Video Tutorials** – Step-by-step cooking guides for better user experience.
+- 🌍 **Community Sharing** – Share your favorite recipes with others.
+
+---
+Feel free to explore and enjoy cooking with **Chuba Makan**!
