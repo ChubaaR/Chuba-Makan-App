@@ -1,9 +1,10 @@
 # 🍽️ Chuba Makan Recipe App
 
+Chuba Makan is a modern cooking application designed to bring diverse recipes from around the world to your fingertips. Whether you're an experienced chef or a home cook, this app offers an extensive collection of recipes with estimated cooking times to help you prepare delicious meals effortlessly.
+
+
 ![Chuba Makan Available on all platforms](https://github.com/user-attachments/assets/c5035d2c-8c28-41da-b8c6-34defe905fc6)
 
-
-Chuba Makan is a modern cooking application designed to bring diverse recipes from around the world to your fingertips. Whether you're an experienced chef or a home cook, this app offers an extensive collection of recipes with estimated cooking times to help you prepare delicious meals effortlessly.
 
 # ✨ Features
 📖 **Explore Global Recipes** – Discover a variety of recipes from different cuisines.
